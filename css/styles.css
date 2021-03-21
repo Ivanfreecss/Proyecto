@@ -30,6 +30,14 @@ a:hover{
     color: #285616;
 }
 
+.red{
+    color: #a13d52 !important;
+}
+
+.blue{
+    color: #2e7ef2 !important;
+}
+
 /*FORMULARIOS*/
 input[type="text"],
 input[type="email"],
